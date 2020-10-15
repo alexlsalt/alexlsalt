@@ -16,3 +16,4 @@ I'm definitely a major self-starter, and I'm at my best when I have a handful of
 - 🌱 I’m currently learning how to implement React Router for a static blog I have on my project (above). I feel like I'm *this* close to that moment where everything clicks, and I'm really excited about it! In the near future, I'd really like to start learning Python and exploring that.
 - 💬 Ask me about life as an expat in France, what I'm reading at any given moment, being a self-taught developer, starting (and finishing!) any creative coding side projects, hosting a weekly podcast, and my wiener dog named Nelson.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alex-morton-creative/)
+- 💻 Take a gander at my portfolio [here.](https://alexlsalt.github.io/)
