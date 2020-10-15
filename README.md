@@ -14,7 +14,7 @@ I'm definitely a major self-starter, and I'm at my best when I have a handful of
 
 ---
 
-- ⚡ I’m currently working on deepening my web development skills, specifically with building in-depth side projects using React. At the moment, I'm developing a website I'd built a few years ago on Squarespace as a resource for other English teachers in France as a React web app. Feel free to take a look at the repo [here.] (https://github.com/alexlsalt/soyouthinkyoucanfrance)
+- ⚡ I’m currently working on deepening my web development skills, specifically with building in-depth side projects using React. At the moment, I'm developing a website I'd built a few years ago on Squarespace as a resource for other English teachers in France as a React web app. Feel free to take a look at the repo [here.](https://github.com/alexlsalt/soyouthinkyoucanfrance)
 - 🌱 I’m currently learning how to implement React Router for a static blog I have on my project (above). I feel like I'm *this* close to that moment where everything clicks, and I'm really excited about it! In the near future, I'd really like to start learning Python and exploring that.
 - 💬 Ask me about life as an expat in France, what I'm reading at any given moment, being a self-taught developer, starting (and finishing!) any creative coding side projects, hosting a weekly podcast, and my wiener dog named Nelson.
-- 📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/alex-morton-creative/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alex-morton-creative/)
