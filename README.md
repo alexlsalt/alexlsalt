@@ -1,10 +1,8 @@
-### Hey, hi, hello! I'm Alex 👋
+### Hey! I'm Alex 👋
 
 ---
 
 I'm a self-taught software engineer with a background in customer support, freelance web design, and teaching English in a French high school. At the end of 2019, I left a truly wonderful job in customer support within a 100% remote and distributed startup to teach myself how to code on a full-time basis after first dabbling with HTML and CSS in my free time. At the beginning of 2020, I found myself at my laptop with a blank slate of GitHub commits that I wanted to start filling in as soon as I could.
-
-Over the course of this year, I've done quite a lot including teaching myself JavaScript and React, building several fun and interesting projects while using the skills I was simultaneously learning (a wonderful and exciting experience to say the least!), submitting my first hackathon project, giving my first talk at a tech-conference (CodeLand:Distributed), and even launching a podcast for other creative women who code!
 
 I'm definitely a major self-starter, and I'm at my best when I have a handful of interesting projects to work on. As a web developer, I've always considered myself to be at the intersection of creativity and logic - viewing the code I write as a truly worthy vehicle of pursuing my creative impulses and indulging my undying sense of curiosity and love of learning.
 
@@ -12,8 +10,5 @@ I'm definitely a major self-starter, and I'm at my best when I have a handful of
 
 ---
 
-- ⚡ I’m currently working on deepening my skills in Ruby and Ruby on Rails! 
-- 🌱 With each new issue I work on for my job, I feel like I have the opportunity to really take a deep dive into a new aspect of Rails, so I'm really loving that!
-- 💬 Ask me about life as an expat in France, what I'm reading at any given moment, being a self-taught developer, starting (and finishing!) any creative coding side projects, and my wiener dog named Nelson.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alex-morton-creative/)
 - 💻 Take a gander at my portfolio [here.](https://alexlsalt.github.io/)
